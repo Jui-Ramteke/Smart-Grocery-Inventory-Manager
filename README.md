@@ -482,6 +482,12 @@ Through this project, the following concepts were learned and implemented:
 
 ---
 
+### Output Video Link:
+
+- https://drive.google.com/file/d/1flStFRYE-WIBmTCb0_uZ6mNPyXu6Nzsg/view?usp=sharing
+
+---
+
 # 👩‍💻 Author
 
 ### Jui Ramteke
